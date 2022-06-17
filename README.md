@@ -1,6 +1,4 @@
-# cdk-advanced-workshop
-
-Welcome to the AWS [CDK Advanced Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d93fec4c-fb0f-4813-ac90-758cb5527f2f/en-US)
+# AWS [CDK Advanced Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/d93fec4c-fb0f-4813-ac90-758cb5527f2f/en-US)
 
 In this workshop you will:
 - Build a non-symetrical multi-region application using the AWS CDK
