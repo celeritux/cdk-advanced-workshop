@@ -20,7 +20,7 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
-    "aws-cdk-lib": "2.3.0",
+    "aws-cdk-lib": "2.80.0",
     "constructs": "^10.0.0",
     "multi-region-s3-crr-kms-cmk-source": "file:constructs/multi-region-s3-crr-kms-cmk-source@0.1.0.jsii.tgz",
     "multi-region-s3-crr-kms-cmk-target": "file:constructs/multi-region-s3-crr-kms-cmk-target@0.1.0.jsii.tgz",
